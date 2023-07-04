@@ -24,7 +24,7 @@ The E-Commerce .NET Core Web API I is built,using the Onion Architecture and fol
 
 1. Clone the repository:
    ```shell
-   git clone https://github.com/your/repository.git
+   git clone https://github.com/pnrprcn/EcomWebAPI.git
 2. Update connection string in appsettings.json
 3. Project uses entity framwork code first approach so in the project path run add-migration then update-database to get db.
 
